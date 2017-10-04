@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/marble-complete/Lobby](https://badges.gitter.im/marble-complete/Lobby.svg)](https://gitter.im/marble-complete/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A fork of AsciiDots based on turing-complete marble runs
 
 <a class="anchor" name="demo-gif"></a>
@@ -13,8 +15,6 @@ Unlike AsciiDots, the only logical operator in MarbleComplete is a _toggler_:
 The Turing Tumble kickstarter has a [gif of the real life equivalent](https://ksr-ugc.imgix.net/assets/016/325/165/19cae5d12c1d7fbeb07222b17ac63909_original.gif?w=680&fit=max&v=1492659230&auto=format&gif-q=50&q=92&s=d6d2f74ec54534198f285ee2f0672606)
 
 ## Running the Interpreter
-
-[![Join the chat at https://gitter.im/marble-complete/Lobby](https://badges.gitter.im/marble-complete/Lobby.svg)](https://gitter.im/marble-complete/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Run `python3 interpret.py --help` to read about available flags.
 
